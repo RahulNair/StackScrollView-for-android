@@ -1,4 +1,4 @@
-StackScrollView_new
+StackScrollView for android
 ===================
                                         Twitter Like StackScrollView In Android
 
